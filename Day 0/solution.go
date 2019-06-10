@@ -11,7 +11,7 @@ import (
 
 func main() {
 	// Printing variables from code
-	var helloWorld string = "Hello World!"
+	var helloWorld = "Hello World!"
 	shorthandHelloWorld := "Shorthand Hello World!"
 
 	fmt.Println(helloWorld, "\n", shorthandHelloWorld)
