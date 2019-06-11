@@ -1,11 +1,8 @@
 package main
 
 import (
-	// https://golang.org/pkg/bufio/
 	"bufio"
-	// https://golang.org/pkg/fmt/
 	"fmt"
-	// https://golang.org/pkg/os/
 	"os"
 )
 
